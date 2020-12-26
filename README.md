@@ -5,4 +5,5 @@
 - I want to work for Gentoo or RolyOS
 - My favourite languages are C#, C and Brainfuck
 
+<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spelunkerr&layout=compact" />
 
